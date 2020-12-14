@@ -8,6 +8,13 @@ This project is a Sample of professional work. Here I show apps which are live a
 * [Unsupervised learning](#Machine learning projects for...)
 * [Reinforcement learning](# Solved Reinforcement learning projects from OpenCV)
 
+## Preview
+
+### Machine Learning example #1
+
+
+### Machine Learning example #2
+
 	
 ## Technologies
 Project is created with:
