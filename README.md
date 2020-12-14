@@ -23,3 +23,7 @@ Project is created with:
 * Kotlin
 * Java
 * C#
+
+## Contact:
+
+*LinkedIN: https://www.linkedin.com/in/manuelsilverio/
