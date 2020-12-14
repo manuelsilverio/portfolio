@@ -10,10 +10,10 @@ This project is a Sample of professional work. Here I show apps which are live a
 
 ## Preview
 
-### Taxi-V2 OpenCV - Reinforcement learning - QTables #1
+#### Taxi-V2 OpenCV - Reinforcement learning - QTables #1
 ![taxi_example](./samples_images/RL_TAXI.png)
 
-### Machine Learning example #2
+#### Machine Learning example #2
 
 	
 ## Technologies
