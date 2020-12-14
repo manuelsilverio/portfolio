@@ -11,7 +11,7 @@ This project is a Sample of professional work. Here I show apps which are live a
 ## Preview
 
 ### Machine Learning example #1
-
+![taxi_example](portfolio/samples_images/RL_TAXI.png)
 
 ### Machine Learning example #2
 
