@@ -4,9 +4,9 @@
 This project is a Sample of professional work. Here I show apps which are live and sample projects developed to showcase my skills.
 
 ## Table of contents
-* [Supersived learning] (#Supersived learning) : Machine learning projects which for classification and regression problems
-* [Unsupervised learning] (#unsupervised learning) : Machine learning projects for...
-* [Reinforcement learning] (#Reinforcement_learning) : Solved Reinforcement learning projects from OpenCV
+* [Supersived learning](./Supersived learning) : Machine learning projects which for classification and regression problems
+* [Unsupervised learning](./unsupervised learning) : Machine learning projects for...
+* [Reinforcement learning](./Reinforcement_learning) : Solved Reinforcement learning projects from OpenCV
 
 ## Technologies
 Project is created with:
