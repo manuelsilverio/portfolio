@@ -24,8 +24,15 @@ Project is created with:
 ![taxi_example](./samples_images/RL_TAXI.png)
 
 #### Garbage collector Agent for Udacity nano degree - [click here for more](https://github.com/manuelsilverio/udacity_project_navigation)
-A training an agent using Deep Q networks to navigate (and collect bananas!) in a large, square world.
 ![garbage-collector](https://github.com/manuelsilverio/udacity_project_navigation/blob/main/images/banana-collector.gif)
+
+A training an agent using Deep Q networks to navigate (and collect bananas!) in a large, square world.
+
+A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
+
+The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
+
+This project has been solved on a Jupyter notebook 
 
 #### Double-joint arm Agent for udacity nano degree - [click here for more]()
 
