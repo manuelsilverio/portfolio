@@ -18,12 +18,16 @@ Project is created with:
 * Java
 * C#
 
-## Preview
+## Reinforcement Learning projects
 
-#### Taxi-V2 OpenCV - Reinforcement learning - QTables #1
+#### Taxi-V2 OpenCV - Reinforcement learning - QTables - [click here for more]()
 ![taxi_example](./samples_images/RL_TAXI.png)
 
-#### Machine Learning example #2
+#### Garbage collector Agent for Udacity nano degree - [click here for more]()
+
+
+#### Double-joint arm Agent for udacity nano degree - [click here for more]()
+
 
 	
 
