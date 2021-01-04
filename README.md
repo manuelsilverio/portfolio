@@ -24,7 +24,7 @@ Project is created with:
 ![taxi_example](./samples_images/RL_TAXI.png)
 
 #### Garbage collector Agent for Udacity nano degree - [click here for more]()
-
+![garbage-collector](https://github.com/manuelsilverio/udacity_project_navigation/blob/main/images/banana-collector.gif)
 
 #### Double-joint arm Agent for udacity nano degree - [click here for more]()
 
