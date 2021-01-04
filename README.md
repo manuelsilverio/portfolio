@@ -37,6 +37,14 @@ This project has been solved on a Jupyter notebook
 ### Double-joint arm Agent for udacity nano degree - [click here for more]()
 
 
+
+## Supervised Learning projects
+
+
+## Unsupervised Learning projects
+
+
+## Android apps
 	
 
 
