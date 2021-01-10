@@ -16,7 +16,7 @@ Project is created with:
 ### Taxi-V2 OpenCV - Reinforcement learning - QTables - [click here for more]()
 ![taxi_example](./samples_images/RL_TAXI.png)
 
-### Garbage collector Agent with Deep Q networks - [click here for more](https://github.com/manuelsilverio/udacity_project_navigation)
+### Bananas collector Agent with Deep Q networks - [click here for more](https://github.com/manuelsilverio/udacity_project_navigation)
 ![garbage-collector](https://github.com/manuelsilverio/udacity_project_navigation/blob/main/images/banana-collector.gif)
 
 A training an agent using Deep Q networks to navigate (and collect bananas!) in a large, square world.
@@ -27,19 +27,26 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 This project has been solved on a Jupyter notebook 
 
+### Pong Atari Agent with REINFORCE and Proximal Policy Optimization
+
+
 ### Double-joint arm Agent for udacity nano degree - [click here for more]()
 
 
 
 ## Supervised Learning projects
 
-
-## Unsupervised Learning projects
+### Image Classification with Convolutional Neural Networks
 
 
 ## Android apps
 	
 Android apps live on GooglePlay
+### Belgium Trains
+
+### Train Catcher
+
+### Driving test Training app
 
 ## Contact:
 
