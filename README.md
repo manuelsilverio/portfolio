@@ -44,7 +44,15 @@ This project has been solved on a Jupyter notebook
 Android apps live on GooglePlay
 #### Belgium Trains
 
-### Train Catcher
+#### Train Catcher - [click here for more](https://github.com/manuelsilverio/train-catcher)
+
+![train_catcher_image](https://github.com/manuelsilverio/train-catcher/blob/main/screenshots/screenshot_01_.png)
+
+* UK Train station boards. Departure and arrival boards for any train station in the UK.
+
+* Train catcher allows you to visualise the departure and arrival boards for any train station in the United Kingdom. It also includes all the calling points between origin and destination. Just select which station you which to see and whether you wish a departure or arrival screen.
+
+* [Google play link here](https://play.google.com/store/apps/details?id=com.uk.traincatcher)
 
 #### Driving test Training app
 
