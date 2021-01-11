@@ -27,24 +27,39 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 This project has been solved on a Jupyter notebook 
 
-#### Pong Atari Agent with REINFORCE and Proximal Policy Optimization
 
-
-#### Double-joint arm Agent for udacity nano degree - [click here for more]()
+### Double-joint arm Agent for udacity nano degree - [click here for more]()
 
 
 
 ## Supervised Learning projects
 
-#### Image Classification with Convolutional Neural Networks
+### Image Classification with Convolutional Neural Networks
 
 
 ## Android apps
 	
 Android apps live on GooglePlay
-#### Belgium Trains
 
-#### Train Catcher - [click here for more](https://github.com/manuelsilverio/train-catcher)
+
+### Belgium Trains
+
+![Belgium_trains_image](https://github.com/manuelsilverio/belgium-trains/blob/main/screen_capture.PNG)
+
+Android App which provide train journey data for Belgium
+
+
+* Search train routes and connections across, from and to Belgium.
+
+* Fetch train times for all Trains stations and companies within Belgium. Use this app for any rail route query. Find the fastest route from Origin to Destination in Belgium.
+
+* Find all the times and connections from NMBS / SNCB (National rail service of Belgium)
+
+
+[Link to GooglePlay](https://play.google.com/store/apps/details?id=com.transportai.belgiumtrains)
+
+
+### Train Catcher - [click here for more](https://github.com/manuelsilverio/train-catcher)
 
 ![train_catcher_image](https://github.com/manuelsilverio/train-catcher/blob/main/screenshots/screenshot_01_.png)
 
@@ -54,7 +69,15 @@ Android apps live on GooglePlay
 
 * [Google play link here](https://play.google.com/store/apps/details?id=com.uk.traincatcher)
 
-#### Driving test Training app
+### Driving test Training app
+
+Mock exams and simulations for the UK driving theory test
+
+![screenshots](https://github.com/manuelsilverio/uk-driving-theory-trainer/blob/main/screenshots.PNG)
+
+Android app for studying for the UK driving theory test. 
+
+[Download link here](https://play.google.com/store/apps/details?id=com.m.trainerdrivingtestuk)
 
 ## Contact:
 
