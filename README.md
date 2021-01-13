@@ -10,6 +10,12 @@ Project is created with:
 * Kotlin
 * Java
 * C#
+* Unity3D
+
+## Supervised Learning projects
+
+### Image Classifier with Convolutional Neural Networks
+
 
 ## Reinforcement Learning projects
 
@@ -30,11 +36,9 @@ This project has been solved on a Jupyter notebook
 
 ### Double-joint arm Agent for udacity nano degree - [click here for more]()
 
+## Games on Unity3D
 
-
-## Supervised Learning projects
-
-### Image Classification with Convolutional Neural Networks
+### Single Pop
 
 
 ## Android apps
