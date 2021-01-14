@@ -14,7 +14,7 @@ Project is created with:
 
 ## Supervised Learning projects
 
-### Image Classifier with Convolutional Neural Networks - [click here for more](https://github.com/manuelsilverio/ai-image-classifier)
+#### Image Classifier with Convolutional Neural Networks - [click here for more](https://github.com/manuelsilverio/ai-image-classifier)
 
 
 A PyTorch Image classifier based on Convolutional Neural Network and Supervised Learning.
