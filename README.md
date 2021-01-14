@@ -19,6 +19,11 @@ Project is created with:
 
 A PyTorch Image classifier based on Convolutional Neural Network and Supervised Learning.
 
+
+* Only one file needed - [ai_image_classifier.py](https://github.com/manuelsilverio/ai-image-classifier/blob/main/ai_image_classifier.py) -
+* you can use it to train a model in three lines of code.
+* The model uses a ResNet backbone.
+
 See [example](https://github.com/manuelsilverio/ai-image-classifier/blob/main/example/example.ipynb) implementing this classifier to distinguish between oranges and pears:
 
 ![test_orange_pear](https://github.com/manuelsilverio/ai-image-classifier/blob/main/image_for_readme.png)
@@ -45,7 +50,7 @@ This project has been solved on a Jupyter notebook
 
 ## Games on Unity3D
 
-### Single Pop
+#### Single Pop
 
 
 ## Android apps
@@ -53,7 +58,7 @@ This project has been solved on a Jupyter notebook
 Android apps live on GooglePlay
 
 
-### Belgium Trains
+#### Belgium Trains
 
 ![Belgium_trains_image](https://github.com/manuelsilverio/belgium-trains/blob/main/screen_capture.PNG)
 
@@ -70,7 +75,7 @@ Android App which provide train journey data for Belgium
 [Link to GooglePlay](https://play.google.com/store/apps/details?id=com.transportai.belgiumtrains)
 
 
-### Train Catcher - [click here for more](https://github.com/manuelsilverio/train-catcher)
+#### Train Catcher - [click here for more](https://github.com/manuelsilverio/train-catcher)
 
 ![train_catcher_image](https://github.com/manuelsilverio/train-catcher/blob/main/screenshots/screenshot_01_.png)
 
@@ -80,7 +85,7 @@ Android App which provide train journey data for Belgium
 
 * [Google play link here](https://play.google.com/store/apps/details?id=com.uk.traincatcher)
 
-### Driving test Training app
+#### Driving test Training app
 
 Mock exams and simulations for the UK driving theory test
 
