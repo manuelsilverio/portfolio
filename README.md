@@ -53,13 +53,10 @@ This project has been solved on a Jupyter notebook
 
 This is pending to upload
 
-[Link to repository]()
 
 ## Games on Unity3D
 
-#### Single Pop - A Unity3D Game for Android
-
-[Link to repository](https://github.com/manuelsilverio/single_pop_unity3d_game)
+#### Single Pop - A Unity3D Game for Android - [Link to repository](https://github.com/manuelsilverio/single_pop_unity3d_game)
 
 Developed in Unity3D, single pop is an android minimalistic game
 
