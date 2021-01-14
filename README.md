@@ -32,6 +32,9 @@ See [example](https://github.com/manuelsilverio/ai-image-classifier/blob/main/ex
 ## Reinforcement Learning projects
 
 #### Taxi-V2 OpenCV - Reinforcement learning - QTables - [click here for more]()
+
+An easy example of implementation of Q learning to solve the OpenCV Taxi problem.
+
 ![taxi_example](./samples_images/RL_TAXI.png)
 
 #### Bananas collector Agent with Deep Q networks - [click here for more](https://github.com/manuelsilverio/udacity_project_navigation)
@@ -46,11 +49,26 @@ The task is episodic, and in order to solve the environment, your agent must get
 This project has been solved on a Jupyter notebook 
 
 
-### Double-joint arm Agent for udacity nano degree - [click here for more]()
+### Double-joint arm Agent for udacity nano degree - 
+
+This is pending to upload
+
+[Link to repository]()
 
 ## Games on Unity3D
 
-#### Single Pop
+#### Single Pop - A Unity3D Game for Android
+
+[Link to repository](https://github.com/manuelsilverio/single_pop_unity3d_game)
+
+Developed in Unity3D, single pop is an android minimalistic game
+
+[Link to GooglePlay](https://play.google.com/store/apps/details?id=com.manuchan.singlepop)
+
+![screenshot](https://github.com/manuelsilverio/single_pop_unity3d_game/blob/main/screenshot_single_pop.PNG)
+
+* This repository contains some of the key scripts used in single pop. 
+* All scripts were developed on C#.
 
 
 ## Android apps
