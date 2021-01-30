@@ -31,13 +31,7 @@ See [example](https://github.com/manuelsilverio/ai-image-classifier/blob/main/ex
 
 ## Reinforcement Learning projects
 
-#### Taxi-V2 OpenCV - Reinforcement learning - QTables - [click here for more]()
-
-An easy example of implementation of Q learning to solve the OpenCV Taxi problem.
-
-![taxi_example](./samples_images/RL_TAXI.png)
-
-#### Bananas collector Agent with Deep Q networks - [click here for more](https://github.com/manuelsilverio/udacity_project_navigation)
+#### Deep RL Single Agent Bananas collector with Deep Q networks - [Link to repo](https://github.com/manuelsilverio/udacity_project_navigation)
 ![garbage-collector](https://github.com/manuelsilverio/udacity_project_navigation/blob/main/images/banana-collector.gif)
 
 A training an agent using Deep Q networks to navigate (and collect bananas!) in a large, square world.
