@@ -49,13 +49,28 @@ The task is episodic, and in order to solve the environment, your agent must get
 This project has been solved on a Jupyter notebook 
 
 
-### Double-joint arm Agent for udacity nano degree - 
+#### Deep RL Single Agent Double-joint arm - [Link to repo](https://github.com/manuelsilverio/DeepRL-single-agent-joint-arm)
 
-This is pending to upload
+![agent-double-joint-arm](https://github.com/manuelsilverio/DeepRL-single-agent-joint-arm/blob/main/trained_arms.gif)
+
+Reinforcement Learning Agent for Joint Arm using Deep Deterministic Policy Gradient (DDPG)
+
+* Training average rewards:
+
+![rewards](https://github.com/manuelsilverio/DeepRL-single-agent-joint-arm/blob/main/plot_p2.png)
+
+
+#### Deep RL Multi-agent tennis collaboration/competition - [Link to repo](https://github.com/manuelsilverio/DeepRL-multi-agent-tennis)
+
+![double-agent](https://github.com/manuelsilverio/DeepRL-multi-agent-tennis/blob/main/tennis.gif)
+
+* This repository contains the implementation of a Multi-Agent collaboration using Multi-Agent Deep Deterministic Policy Gradient (MADDPG).
+
+* This has been part of Udacity's Deep Reinforcement Learning Nanodegree program
 
 
 ## Games on Unity3D
-
+  
 #### Single Pop - A Unity3D Game for Android - [Link to repository](https://github.com/manuelsilverio/single_pop_unity3d_game)
 
 Developed in Unity3D, single pop is an android minimalistic game
