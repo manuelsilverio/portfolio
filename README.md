@@ -6,11 +6,20 @@ This project is a Sample of professional work. Here I show apps which are live a
 ## Technologies
 Project is created with:
 * Python
+* OpenCV
 * Jupyter Notebook
 * Kotlin
 * Java
 * C#
 * Unity3D
+
+## OpenCV Projects
+
+#### Mouse control with hand gestures - [Link to repo](https://github.com/manuelsilverio/opencv-finger-tracking)
+
+Finger detection and tracking with OpenCV. Detects and counts fingers. With five fingers it controls the cursor. 
+
+![example](https://github.com/manuelsilverio/opencv-finger-tracking/blob/main/hand-gesture-control-output.gif)
 
 ## Supervised Learning projects
 
