@@ -10,13 +10,28 @@ Project is created with:
 * Kotlin
 * Java
 * C#
+* Unity3D
+
+## Supervised Learning projects
+
+#### Image Classifier with Convolutional Neural Networks - [click here for more](https://github.com/manuelsilverio/ai-image-classifier)
+
+
+A PyTorch Image classifier based on Convolutional Neural Network and Supervised Learning.
+
+
+* Only one file needed - [ai_image_classifier.py](https://github.com/manuelsilverio/ai-image-classifier/blob/main/ai_image_classifier.py) -
+* you can use it to train a model in three lines of code.
+* The model uses a ResNet backbone.
+
+See [example](https://github.com/manuelsilverio/ai-image-classifier/blob/main/example/example.ipynb) implementing this classifier to distinguish between oranges and pears:
+
+![test_orange_pear](https://github.com/manuelsilverio/ai-image-classifier/blob/main/image_for_readme.png)
+
 
 ## Reinforcement Learning projects
 
-#### Taxi-V2 OpenCV - Reinforcement learning - QTables - [click here for more]()
-![taxi_example](./samples_images/RL_TAXI.png)
-
-#### Bananas collector Agent with Deep Q networks - [click here for more](https://github.com/manuelsilverio/udacity_project_navigation)
+#### Deep RL Single Agent Bananas collector with Deep Q networks - [Link to repo](https://github.com/manuelsilverio/udacity_project_navigation)
 ![garbage-collector](https://github.com/manuelsilverio/udacity_project_navigation/blob/main/images/banana-collector.gif)
 
 A training an agent using Deep Q networks to navigate (and collect bananas!) in a large, square world.
@@ -28,13 +43,38 @@ The task is episodic, and in order to solve the environment, your agent must get
 This project has been solved on a Jupyter notebook 
 
 
-### Double-joint arm Agent for udacity nano degree - [click here for more]()
+#### Deep RL Single Agent Double-joint arm - [Link to repo](https://github.com/manuelsilverio/DeepRL-single-agent-joint-arm)
+
+![agent-double-joint-arm](https://github.com/manuelsilverio/DeepRL-single-agent-joint-arm/blob/main/trained_arms.gif)
+
+Reinforcement Learning Agent for Joint Arm using Deep Deterministic Policy Gradient (DDPG)
+
+* Training average rewards:
+
+![rewards](https://github.com/manuelsilverio/DeepRL-single-agent-joint-arm/blob/main/plot_p2.png)
 
 
+#### Deep RL Multi-agent tennis collaboration/competition - [Link to repo](https://github.com/manuelsilverio/DeepRL-multi-agent-tennis)
 
-## Supervised Learning projects
+![double-agent](https://github.com/manuelsilverio/DeepRL-multi-agent-tennis/blob/main/tennis.gif)
 
-### Image Classification with Convolutional Neural Networks
+* This repository contains the implementation of a Multi-Agent collaboration using Multi-Agent Deep Deterministic Policy Gradient (MADDPG).
+
+* This has been part of Udacity's Deep Reinforcement Learning Nanodegree program
+
+
+## Games on Unity3D
+  
+#### Single Pop - A Unity3D Game for Android - [Link to repository](https://github.com/manuelsilverio/single_pop_unity3d_game)
+
+Developed in Unity3D, single pop is an android minimalistic game
+
+[Link to GooglePlay](https://play.google.com/store/apps/details?id=com.manuchan.singlepop)
+
+![screenshot](https://github.com/manuelsilverio/single_pop_unity3d_game/blob/main/screenshot_single_pop.PNG)
+
+* This repository contains some of the key scripts used in single pop. 
+* All scripts were developed on C#.
 
 
 ## Android apps
@@ -42,7 +82,7 @@ This project has been solved on a Jupyter notebook
 Android apps live on GooglePlay
 
 
-### Belgium Trains
+#### Belgium Trains
 
 ![Belgium_trains_image](https://github.com/manuelsilverio/belgium-trains/blob/main/screen_capture.PNG)
 
@@ -59,7 +99,7 @@ Android App which provide train journey data for Belgium
 [Link to GooglePlay](https://play.google.com/store/apps/details?id=com.transportai.belgiumtrains)
 
 
-### Train Catcher - [click here for more](https://github.com/manuelsilverio/train-catcher)
+#### Train Catcher - [click here for more](https://github.com/manuelsilverio/train-catcher)
 
 ![train_catcher_image](https://github.com/manuelsilverio/train-catcher/blob/main/screenshots/screenshot_01_.png)
 
@@ -69,7 +109,7 @@ Android App which provide train journey data for Belgium
 
 * [Google play link here](https://play.google.com/store/apps/details?id=com.uk.traincatcher)
 
-### Driving test Training app
+#### Driving test Training app
 
 Mock exams and simulations for the UK driving theory test
 
