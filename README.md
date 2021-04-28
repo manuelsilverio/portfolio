@@ -6,11 +6,20 @@ This project is a Sample of professional work. Here I show apps which are live a
 ## Technologies
 Project is created with:
 * Python
+* OpenCV
 * Jupyter Notebook
 * Kotlin
 * Java
 * C#
 * Unity3D
+
+## OpenCV Projects
+
+#### Mouse control with hand gestures - [Link to repo](https://github.com/manuelsilverio/opencv-finger-tracking)
+
+Finger detection and tracking with OpenCV. Detects and counts fingers. With five fingers it controls the cursor. 
+
+![example](https://github.com/manuelsilverio/opencv-finger-tracking/blob/main/hand-gesture-control-output.gif)
 
 ## Supervised Learning projects
 
@@ -63,20 +72,6 @@ Reinforcement Learning Agent for Joint Arm using Deep Deterministic Policy Gradi
 * This has been part of Udacity's Deep Reinforcement Learning Nanodegree program
 
 
-## Games on Unity3D
-  
-#### Single Pop - A Unity3D Game for Android - [Link to repository](https://github.com/manuelsilverio/single_pop_unity3d_game)
-
-Developed in Unity3D, single pop is an android minimalistic game
-
-[Link to GooglePlay](https://play.google.com/store/apps/details?id=com.manuchan.singlepop)
-
-![screenshot](https://github.com/manuelsilverio/single_pop_unity3d_game/blob/main/screenshot_single_pop.PNG)
-
-* This repository contains some of the key scripts used in single pop. 
-* All scripts were developed on C#.
-
-
 ## Android apps
 	
 Android apps live on GooglePlay
@@ -118,6 +113,21 @@ Mock exams and simulations for the UK driving theory test
 Android app for studying for the UK driving theory test. 
 
 [Download link here](https://play.google.com/store/apps/details?id=com.m.trainerdrivingtestuk)
+
+
+## Games on Unity3D
+  
+#### Single Pop - A Unity3D Game for Android - [Link to repository](https://github.com/manuelsilverio/single_pop_unity3d_game)
+
+Developed in Unity3D, single pop is an android minimalistic game
+
+[Link to GooglePlay](https://play.google.com/store/apps/details?id=com.manuchan.singlepop)
+
+![screenshot](https://github.com/manuelsilverio/single_pop_unity3d_game/blob/main/screenshot_single_pop.PNG)
+
+* This repository contains some of the key scripts used in single pop. 
+* All scripts were developed on C#.
+
 
 ## Contact:
 
