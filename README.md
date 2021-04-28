@@ -15,7 +15,7 @@ Project is created with:
 
 ## Web Scraping Projects
 
-### Scraping Flight info from Kayak - [Link to repo](https://github.com/manuelsilverio/scraping_kayak)
+### Scraping Flight data from Kayak - [Link to repo](https://github.com/manuelsilverio/scraping_kayak)
 ##### Instructions:
 
 * Run example.py for testing code. It will fetch flight info from Milan to Madrid for next day.
