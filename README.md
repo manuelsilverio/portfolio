@@ -13,6 +13,22 @@ Project is created with:
 * C#
 * Unity3D
 
+## Web Scraping Projects
+
+#### Scraping Flight info from Kayak - [Link to repo](https://github.com/manuelsilverio/scraping_kayak)
+##### Instructions:
+
+* Run example.py for testing code. It will fetch flight info from Milan to Madrid for next day.
+* Run scraper_kayak.py for adding your input. You can choose the origin and destination of the scraping. 
+* chromedriver.exe must be in the same folder as the python script.
+* chrome browser must be installed.
+
+##### Screen capture:
+* When running the script, Chrome will open and will look like this:
+
+![screen_capture](https://github.com/manuelsilverio/scraping_kayak/blob/main/Capture_kayak.PNG)
+
+
 ## OpenCV Projects
 
 #### Mouse control with hand gestures - [Link to repo](https://github.com/manuelsilverio/opencv-finger-tracking)
