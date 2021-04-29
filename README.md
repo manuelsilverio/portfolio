@@ -28,6 +28,21 @@ Project is created with:
 
 ![screen_capture](https://github.com/manuelsilverio/scraping_kayak/blob/main/Capture_kayak.PNG)
 
+### Web scraping BOOKING.COM
+
+Web scraping hotel rooms data from booking.com with Python.
+
+##### Instructions:
+
+* Run example.py for testing code. It will fetch hotel data from London for next day for duration of 1 night and 2 adults.
+* This script uses selectorlib. Therefore Chromedriver or selenium are not required.
+
+##### Screen capture
+* After the script runs a CSV file will be created named "example_output.csv" in the same folder where the script runs. The csv looks like this on excel:
+
+![screen_capture](https://github.com/manuelsilverio/scraping_booking.com/blob/main/Capture.PNG)
+
+
 ## Supervised Learning projects
 
 #### Image Classifier with Convolutional Neural Networks - [click here for more](https://github.com/manuelsilverio/ai-image-classifier)
