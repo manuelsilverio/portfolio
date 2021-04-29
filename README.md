@@ -28,15 +28,6 @@ Project is created with:
 
 ![screen_capture](https://github.com/manuelsilverio/scraping_kayak/blob/main/Capture_kayak.PNG)
 
-
-## OpenCV Projects
-
-#### Mouse control with hand gestures - [Link to repo](https://github.com/manuelsilverio/opencv-finger-tracking)
-
-Finger detection and tracking with OpenCV. Detects and counts fingers. With five fingers it controls the cursor. 
-
-![example](https://github.com/manuelsilverio/opencv-finger-tracking/blob/main/hand-gesture-control-output.gif)
-
 ## Supervised Learning projects
 
 #### Image Classifier with Convolutional Neural Networks - [click here for more](https://github.com/manuelsilverio/ai-image-classifier)
@@ -129,6 +120,14 @@ Mock exams and simulations for the UK driving theory test
 Android app for studying for the UK driving theory test. 
 
 [Download link here](https://play.google.com/store/apps/details?id=com.m.trainerdrivingtestuk)
+
+## OpenCV Projects
+
+#### Mouse control with hand gestures - [Link to repo](https://github.com/manuelsilverio/opencv-finger-tracking)
+
+Finger detection and tracking with OpenCV. Detects and counts fingers. With five fingers it controls the cursor. 
+
+![example](https://github.com/manuelsilverio/opencv-finger-tracking/blob/main/hand-gesture-control-output.gif)
 
 
 ## Games on Unity3D
