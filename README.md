@@ -28,7 +28,7 @@ Project is created with:
 
 ![screen_capture](https://github.com/manuelsilverio/scraping_kayak/blob/main/Capture_kayak.PNG)
 
-### Web scraping BOOKING.COM
+### Web scraping BOOKING.COM - [Link to repo](https://github.com/manuelsilverio/scraping_booking.com)
 
 Web scraping hotel rooms data from booking.com with Python.
 
