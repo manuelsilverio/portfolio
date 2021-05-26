@@ -13,34 +13,47 @@ Project is created with:
 * C#
 * Unity3D
 
-## Web Scraping Projects
+## Android apps
+	
+Android apps live on GooglePlay
 
-### Scraping Flight data from Kayak - [Link to repo](https://github.com/manuelsilverio/scraping_kayak)
-##### Instructions:
 
-* Run example.py for testing code. It will fetch flight info from Milan to Madrid for next day.
-* Run scraper_kayak.py for adding your input. You can choose the origin and destination of the scraping. 
-* chromedriver.exe must be in the same folder as the python script.
-* chrome browser must be installed.
+#### Belgium Trains
 
-##### Screen capture:
-* When running the script, Chrome will open and will look like this:
+![Belgium_trains_image](https://github.com/manuelsilverio/belgium-trains/blob/main/screen_capture.PNG)
 
-![screen_capture](https://github.com/manuelsilverio/scraping_kayak/blob/main/Capture_kayak.PNG)
+Android App which provide train journey data for Belgium
 
-### Web scraping BOOKING.COM - [Link to repo](https://github.com/manuelsilverio/scraping_booking.com)
 
-Web scraping hotel rooms data from booking.com with Python.
+* Search train routes and connections across, from and to Belgium.
 
-##### Instructions:
+* Fetch train times for all Trains stations and companies within Belgium. Use this app for any rail route query. Find the fastest route from Origin to Destination in Belgium.
 
-* Run example.py for testing code. It will fetch hotel data from London for next day for duration of 1 night and 2 adults.
-* This script uses selectorlib. Therefore Chromedriver or selenium are not required.
+* Find all the times and connections from NMBS / SNCB (National rail service of Belgium)
 
-##### Screen capture
-* After the script runs a CSV file will be created named "example_output.csv" in the same folder where the script runs. The csv looks like this on excel:
 
-![screen_capture](https://github.com/manuelsilverio/scraping_booking.com/blob/main/Capture.PNG)
+[Link to GooglePlay](https://play.google.com/store/apps/details?id=com.transportai.belgiumtrains)
+
+
+#### Train Catcher - [click here for more](https://github.com/manuelsilverio/train-catcher)
+
+![train_catcher_image](https://github.com/manuelsilverio/train-catcher/blob/main/screenshots/screenshot_01_.png)
+
+* UK Train station boards. Departure and arrival boards for any train station in the UK.
+
+* Train catcher allows you to visualise the departure and arrival boards for any train station in the United Kingdom. It also includes all the calling points between origin and destination. Just select which station you which to see and whether you wish a departure or arrival screen.
+
+* [Google play link here](https://play.google.com/store/apps/details?id=com.uk.traincatcher)
+
+#### Driving test Training app
+
+Mock exams and simulations for the UK driving theory test
+
+![screenshots](https://github.com/manuelsilverio/uk-driving-theory-trainer/blob/main/screenshots.PNG)
+
+Android app for studying for the UK driving theory test. 
+
+[Download link here](https://play.google.com/store/apps/details?id=com.m.trainerdrivingtestuk)
 
 
 ## Supervised Learning projects
@@ -93,49 +106,6 @@ Reinforcement Learning Agent for Joint Arm using Deep Deterministic Policy Gradi
 
 * This has been part of Udacity's Deep Reinforcement Learning Nanodegree program
 
-
-## Android apps
-	
-Android apps live on GooglePlay
-
-
-#### Belgium Trains
-
-![Belgium_trains_image](https://github.com/manuelsilverio/belgium-trains/blob/main/screen_capture.PNG)
-
-Android App which provide train journey data for Belgium
-
-
-* Search train routes and connections across, from and to Belgium.
-
-* Fetch train times for all Trains stations and companies within Belgium. Use this app for any rail route query. Find the fastest route from Origin to Destination in Belgium.
-
-* Find all the times and connections from NMBS / SNCB (National rail service of Belgium)
-
-
-[Link to GooglePlay](https://play.google.com/store/apps/details?id=com.transportai.belgiumtrains)
-
-
-#### Train Catcher - [click here for more](https://github.com/manuelsilverio/train-catcher)
-
-![train_catcher_image](https://github.com/manuelsilverio/train-catcher/blob/main/screenshots/screenshot_01_.png)
-
-* UK Train station boards. Departure and arrival boards for any train station in the UK.
-
-* Train catcher allows you to visualise the departure and arrival boards for any train station in the United Kingdom. It also includes all the calling points between origin and destination. Just select which station you which to see and whether you wish a departure or arrival screen.
-
-* [Google play link here](https://play.google.com/store/apps/details?id=com.uk.traincatcher)
-
-#### Driving test Training app
-
-Mock exams and simulations for the UK driving theory test
-
-![screenshots](https://github.com/manuelsilverio/uk-driving-theory-trainer/blob/main/screenshots.PNG)
-
-Android app for studying for the UK driving theory test. 
-
-[Download link here](https://play.google.com/store/apps/details?id=com.m.trainerdrivingtestuk)
-
 ## OpenCV Projects
 
 #### Mouse control with hand gestures - [Link to repo](https://github.com/manuelsilverio/opencv-finger-tracking)
@@ -157,6 +127,37 @@ Developed in Unity3D, single pop is an android minimalistic game
 
 * This repository contains some of the key scripts used in single pop. 
 * All scripts were developed on C#.
+
+## Web Scraping Projects
+
+### Scraping Flight data from Kayak - [Link to repo](https://github.com/manuelsilverio/scraping_kayak)
+##### Instructions:
+
+* Run example.py for testing code. It will fetch flight info from Milan to Madrid for next day.
+* Run scraper_kayak.py for adding your input. You can choose the origin and destination of the scraping. 
+* chromedriver.exe must be in the same folder as the python script.
+* chrome browser must be installed.
+
+##### Screen capture:
+* When running the script, Chrome will open and will look like this:
+
+![screen_capture](https://github.com/manuelsilverio/scraping_kayak/blob/main/Capture_kayak.PNG)
+
+### Web scraping BOOKING.COM - [Link to repo](https://github.com/manuelsilverio/scraping_booking.com)
+
+Web scraping hotel rooms data from booking.com with Python.
+
+##### Instructions:
+
+* Run example.py for testing code. It will fetch hotel data from London for next day for duration of 1 night and 2 adults.
+* This script uses selectorlib. Therefore Chromedriver or selenium are not required.
+
+##### Screen capture
+* After the script runs a CSV file will be created named "example_output.csv" in the same folder where the script runs. The csv looks like this on excel:
+
+![screen_capture](https://github.com/manuelsilverio/scraping_booking.com/blob/main/Capture.PNG)
+
+
 
 
 ## Contact:
