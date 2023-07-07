@@ -13,48 +13,6 @@ Project is created with:
 * C#
 * Unity3D
 
-## Android apps
-	
-Android apps live on GooglePlay
-
-
-#### Belgium Trains
-
-![Belgium_trains_image](https://github.com/manuelsilverio/belgium-trains/blob/main/screen_capture.PNG)
-
-Android App which provide train journey data for Belgium
-
-
-* Search train routes and connections across, from and to Belgium.
-
-* Fetch train times for all Trains stations and companies within Belgium. Use this app for any rail route query. Find the fastest route from Origin to Destination in Belgium.
-
-* Find all the times and connections from NMBS / SNCB (National rail service of Belgium)
-
-
-[Link to GooglePlay](https://play.google.com/store/apps/details?id=com.transportai.belgiumtrains)
-
-
-#### Train Catcher - [click here for more](https://github.com/manuelsilverio/train-catcher)
-
-![train_catcher_image](https://github.com/manuelsilverio/train-catcher/blob/main/screenshots/screenshot_01_.png)
-
-* UK Train station boards. Departure and arrival boards for any train station in the UK.
-
-* Train catcher allows you to visualise the departure and arrival boards for any train station in the United Kingdom. It also includes all the calling points between origin and destination. Just select which station you which to see and whether you wish a departure or arrival screen.
-
-* [Google play link here](https://play.google.com/store/apps/details?id=com.uk.traincatcher)
-
-#### Driving test Training app
-
-Mock exams and simulations for the UK driving theory test
-
-![screenshots](https://github.com/manuelsilverio/uk-driving-theory-trainer/blob/main/screenshots.PNG)
-
-Android app for studying for the UK driving theory test. 
-
-[Download link here](https://play.google.com/store/apps/details?id=com.m.trainerdrivingtestuk)
-
 
 ## Supervised Learning projects
 
@@ -156,6 +114,50 @@ Web scraping hotel rooms data from booking.com with Python.
 * After the script runs a CSV file will be created named "example_output.csv" in the same folder where the script runs. The csv looks like this on excel:
 
 ![screen_capture](https://github.com/manuelsilverio/scraping_booking.com/blob/main/Capture.PNG)
+
+
+## Android apps
+	
+Android apps live on GooglePlay
+
+
+#### Belgium Trains
+
+![Belgium_trains_image](https://github.com/manuelsilverio/belgium-trains/blob/main/screen_capture.PNG)
+
+Android App which provide train journey data for Belgium
+
+
+* Search train routes and connections across, from and to Belgium.
+
+* Fetch train times for all Trains stations and companies within Belgium. Use this app for any rail route query. Find the fastest route from Origin to Destination in Belgium.
+
+* Find all the times and connections from NMBS / SNCB (National rail service of Belgium)
+
+
+[Link to GooglePlay](https://play.google.com/store/apps/details?id=com.transportai.belgiumtrains)
+
+
+#### Train Catcher - [click here for more](https://github.com/manuelsilverio/train-catcher)
+
+![train_catcher_image](https://github.com/manuelsilverio/train-catcher/blob/main/screenshots/screenshot_01_.png)
+
+* UK Train station boards. Departure and arrival boards for any train station in the UK.
+
+* Train catcher allows you to visualise the departure and arrival boards for any train station in the United Kingdom. It also includes all the calling points between origin and destination. Just select which station you which to see and whether you wish a departure or arrival screen.
+
+* [Google play link here](https://play.google.com/store/apps/details?id=com.uk.traincatcher)
+
+#### Driving test Training app
+
+Mock exams and simulations for the UK driving theory test
+
+![screenshots](https://github.com/manuelsilverio/uk-driving-theory-trainer/blob/main/screenshots.PNG)
+
+Android app for studying for the UK driving theory test. 
+
+[Download link here](https://play.google.com/store/apps/details?id=com.m.trainerdrivingtestuk)
+
 
 
 
